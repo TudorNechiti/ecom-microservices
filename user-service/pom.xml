@@ -8,8 +8,8 @@
 		<version>4.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tudornechiti</groupId>
-	<artifactId>oms-java</artifactId>
+	<groupId>com.ecommerce</groupId>
+	<artifactId>user-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
